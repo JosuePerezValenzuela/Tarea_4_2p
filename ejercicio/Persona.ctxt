@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Persona
+comment1.params=
+comment1.target=int\ getAlmaDeFuego()
+comment2.params=
+comment2.target=void\ restaDeAlmasDeFuego()
+comment3.params=
+comment3.target=int\ getarmadura()
+comment4.params=
+comment4.target=int\ getvelo()
+numComments=5

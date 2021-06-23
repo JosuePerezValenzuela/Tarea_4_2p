@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Espadas
+comment1.params=p
+comment1.target=Espadas(Persona)
+comment2.params=
+comment2.target=java.lang.String\ descripcion()
+comment3.params=
+comment3.target=int\ pegar()
+comment4.params=
+comment4.target=java.lang.String\ estadoDeLaEspada()
+comment5.params=
+comment5.target=java.lang.String\ mejorarEspada()
+comment6.params=
+comment6.target=int\ getDa\u00F1o()
+numComments=7
